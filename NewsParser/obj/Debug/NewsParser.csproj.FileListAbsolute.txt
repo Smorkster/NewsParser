@@ -1,0 +1,36 @@
+H:\SharpDevelop Projects\NewsParser\NewsParser\bin\Debug\NewsParser.exe
+H:\SharpDevelop Projects\NewsParser\NewsParser\bin\Debug\NewsParser.pdb
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\ResolveAssemblyReference.cache
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\NewsParser.MainForm.resources
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\GenerateResource.read.1.tlog
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\GenerateResource.write.1.tlog
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\NewsParser.exe
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\NewsParser.pdb
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.exe
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.pdb
+D:\Programmering\CSharp\NewsParser\NewsParser\bin\Debug\NewsParser.exe
+D:\Programmering\CSharp\NewsParser\NewsParser\bin\Debug\NewsParser.pdb
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.MainForm.resources
+H:\SharpDevelop Projects\NewsParser\NewsParser\obj\Debug\NewsParser.Input.resources
+H:\Programmering\NewsParser\NewsParser\bin\Debug\NewsParser.exe
+H:\Programmering\NewsParser\NewsParser\bin\Debug\NewsParser.pdb
+H:\Programmering\NewsParser\NewsParser\obj\Debug\ResolveAssemblyReference.cache
+H:\Programmering\NewsParser\NewsParser\obj\Debug\NewsParser.Input.resources
+H:\Programmering\NewsParser\NewsParser\obj\Debug\NewsParser.MainForm.resources
+H:\Programmering\NewsParser\NewsParser\obj\Debug\GenerateResource.read.1.tlog
+H:\Programmering\NewsParser\NewsParser\obj\Debug\GenerateResource.write.1.tlog
+H:\Programmering\NewsParser\NewsParser\obj\Debug\NewsParser.exe
+H:\Programmering\NewsParser\NewsParser\obj\Debug\NewsParser.pdb
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\ResolveAssemblyReference.cache
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.Input.resources
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.MainForm.resources
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\GenerateResource.read.1.tlog
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\GenerateResource.write.1.tlog
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.exe
+H:\Programmering\CSharp\NewsParser\NewsParser\bin\Debug\NewsParser.exe
+H:\Programmering\CSharp\NewsParser\NewsParser\bin\Debug\NewsParser.pdb
+H:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.pdb
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.ListImages.resources
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.WikiInternalLinkCategory.resources
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.csprojResolveAssemblyReference.cache
+D:\Programmering\CSharp\NewsParser\NewsParser\obj\Debug\NewsParser.csproj.GenerateResource.Cache
